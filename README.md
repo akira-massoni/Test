@@ -1,7 +1,9 @@
 # Test
 Github test repository
 
-NEW FEATURES LIST:
+########### NEW FEATURES ##################
 
-Link to google
-button (not yet functional)
+- Link to google 
+- Button (not yet functional)
+
+###########################################
