@@ -1,4 +1,10 @@
 # Test
 Github test repository
 
-Document edited using Max's branch.
+########### NEW FEATURES ##################
+
+- Link to google 
+- Button (not yet functional)
+- Listing with 5 choices added
+- Implemented yet another feature
+###########################################
